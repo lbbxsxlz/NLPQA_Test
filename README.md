@@ -5,6 +5,6 @@
 测试代码比较了Jieba中文分词与HanLP汉语言包的分词、词性标注与关键词的功能。此外还测试了HanLP的文本推荐功能。
 
 ## ref
-Jieba：https://github.com/fxsjy/jieba
-HanLP: https://github.com/hankcs/HanLP
-JPype3: https://github.com/tcalmant/jpype-py3/
+Jieba：https://github.com/fxsjy/jieba<br> 
+HanLP: https://github.com/hankcs/HanLP<br>
+JPype3: https://github.com/tcalmant/jpype-py3/<br>
